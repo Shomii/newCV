@@ -1,0 +1,83 @@
+            .circle-img {
+                width: 250px;
+                height: 250px;
+                overflow: hidden;
+
+            }
+
+            .circle-img img {
+                height: 100%;
+                transform: translateX(-50%);
+                margin-left: 50%;
+            }
+
+            h3{
+                color: white;
+                text-align: center;
+            }
+
+            #p{
+                color: white;
+                text-align: center;
+                font-size: 1.3em;
+                margin: 5px;
+            }
+
+            #p2{
+                color: brown;
+                text-align: center;
+                font-size: 1.3em;
+            }
+
+            #textarea{
+                color: white;
+                text-align: center;
+                background-color: #D3EAF2;
+                border: none;
+                width: 18.8em;
+                font-size: 1.3em;
+            }
+
+            #textarea2{
+                color: brown;
+                text-align: center;
+                background-color: #F2F2D3;
+                border: none;
+                width: 18.8em;
+                font-size: 1.3em;
+            }
+
+            h2{
+                color: white;   
+            }
+
+            .someColor {
+                background-color: #898DF5;
+                width: 23em;
+                /*    float: left;*/
+            }
+
+            .someColor2 {
+                background-color: #897DF5;
+                width: 23em;
+                float: left;
+                /*    clear: left;*/
+            }
+
+            .someColor3 {
+                background-color: #D3EAF2;
+                width: 25em;
+                /*    float: left;*/
+                margin-top: -26.5%;
+                margin-left: 17%;
+                font-size: 1em;
+            }
+
+            .someColor4 {
+                background-color: #F2F2D3;
+                width: 25em;
+                /*    float: left;*/
+                margin-top: 1%;
+                margin-left: 17%;
+                font-size: 1em;
+            }

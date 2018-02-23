@@ -1,0 +1,101 @@
+
+.image-preview-input {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;    
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;    
+}
+.image-preview-input input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.image-preview-input-title {
+    margin-left:2px;
+}        
+
+#divLanguage2{
+    display: none;
+}
+
+#divLanguage3{
+    display: none;
+}
+
+#divLanguage4{
+    display: none;
+}
+
+#divJob2{
+    display: none;
+}
+
+#divJob3{
+    display: none;
+}
+
+#divJob4{
+    display: none;
+}
+
+#divSchool2{
+    display: none;
+}
+
+#divSchool3{
+    display: none;
+}
+
+#divSchool4{
+    display: none;
+}
+
+#divCourses2{
+    display: none;
+}
+
+#divCourses3{
+    display: none;
+}
+
+#divCourses4{
+    display: none;
+}
+
+#part1{
+    float: left;
+}
+
+#part2{
+    float: left;
+}
+
+#part3{
+    float: left;
+}
+
+#clearFloat {
+    clear: both;         
+}
+
+#save {
+    float: right;
+    width: 15em;   
+}
+#cancel {
+    float: right;
+    width: 15em;   
+}
+
+#dayPicker {
+    text-align: center;
+    width: 7em;   
+}
