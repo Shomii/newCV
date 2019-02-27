@@ -2,7 +2,7 @@
 
 kreiraj i ažuriraj svoj CV
 
-https://www.youtube.com/edit?o=U&ar=2&video_id=ES4O3in4D54
+https://youtu.be/ES4O3in4D54
 
 # newCV
 
